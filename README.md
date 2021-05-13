@@ -4,6 +4,12 @@
 
 ## Introduction
 This book ordering system is based on JSP/Servlet.  
+Used MySQL, java, jsp, html/css/js
+
+## Running the program  
+1. Connect your database
+2. Open the server like tomcat, use ide like eclipse or IDEA to inport the project and then build the project
+3. Access the webpage from localhost:xxxx/book_manager
 
 ## DataBase Design
 This project is just a demo, and you could make any changes you want. My sql file is called. jsp_book.sql, and I put it on the root.  
@@ -75,9 +81,87 @@ Both the normal user and the super manager can access this functionality.
 * Hiding the main page is useful when the user wants to see more information on the tables such as staying on order manage section for a while to find a specific order record.
 
 
-## Functionalities Preview
-The flow chart
-![FlowChart](./img_readme/FlowChart.png "flow chart")
+## Functionalities Preview  
+
+The flow chart  
+
+
+![FlowChart](./img_readme/FlowChart.png "flow chart")  
+
+The login page  
+
+
+![LoginPage](./img_readme/LogIn.png "login page")  
+
+Change Password  
+
+
+![ChangePw](./img_readme/ChangePw.png "Change Password")  
+
+Manage Managers  
+
+
+![ManageManager](./img_readme/ManageManager.png "Manage manager")  
+
+Add Subject  
+
+
+![AddSubject](./img_readme/AddSubject.png "Add Subject")  
+
+Manage Subject  
+
+
+![ManageSubject](./img_readme/ManageSubject.png "Manage Subject")  
+
+Add Book  
+
+
+![AddBook](./img_readme/AddBook.png "Add book")  
+
+Manage Book  
+
+
+![ManageBook](./img_readme/ManageBook.png "Manage Book")  
+
+Add Customer 
+
+
+![AddCustomer](./img_readme/AddUser.png "Add Customer")  
+
+Manage Customer  
+
+
+![ManageCustomer](./img_readme/ManageUser.png "Manage Customer")  
+
+Make Order when choosing customer 
+
+
+![Order1](./img_readme/MakeOrder1.png "Make Order")  
+
+Make Order When selecting book  
+
+
+![Order2](./img_readme/MakeOrder2.png "Make Order")  
+
+Manage Order  
+
+
+![OrderManage](./img_readme/OrderManage.png "Manage Order")  
+
+Log Out  
+
+
+![LogOut](./img_readme/LogOut.png "Log Out")
+
+Customer View - Only three sections available  
+
+
+![CustomerView](./img_readme/CustomerView.png "Customer View")  
+
+Add Manager/Customer under Manager mode  
+
+
+![AddManager](./img_readme/AddManager.png "Add Manager")  
 
 ## Author
 *  Jialong6
