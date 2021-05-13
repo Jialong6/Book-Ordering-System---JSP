@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="book_manager">
+    <output-path>$PROJECT_DIR$/classes/artifacts/book_manager</output-path>
+    <root id="archive" name="book_manager.war">
+      <element id="artifact" artifact-name="jspbook:Web exploded" />
+      <element id="module-output" name="jspbook" />
+    </root>
+  </artifact>
+</component>
