@@ -76,7 +76,8 @@ Both the normal user and the super manager can access this functionality.
 
 
 ## Functionalities Preview
-The flow chart  
+The flow chart
+![FlowChart](./img_readme/FlowChart.png "flow chart")
 
 ## Author
 *  Jialong6
